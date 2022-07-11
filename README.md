@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/EvensixGit?template=classic&config.timezone=Asia%2FShanghai")
+![Metrics](https://metrics.lecoq.io/EvensixGit?template=classic&config.timezone=Asia%2FShanghai)
 
 [![felixliuyw's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvensixGit)](https://github.com/anuraghazra/github-readme-stats)
 
